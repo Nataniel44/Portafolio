@@ -26,6 +26,7 @@ function App() {
         <section className="present">
           <img src="src/img/to4.png" alt="yo" />
           <div>
+            <h2>holad</h2>
             <h1>
               Hi there, <br />
               i´m <span className="span-name">Nataniel</span>
