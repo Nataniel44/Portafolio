@@ -1,6 +1,7 @@
 {
   "name": "portafolio-react",
   "private": true,
+  "homepage": "https://github.com/Nataniel44/Portafolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
