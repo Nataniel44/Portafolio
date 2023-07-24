@@ -1,7 +1,6 @@
 {
   "name": "portafolio-react",
   "private": true,
-  "homepage": "https://nataniel44.github.io/Portafolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -11,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
